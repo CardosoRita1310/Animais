@@ -1,0 +1,59 @@
+body {
+  background: #fffff;
+  font-family: Verdana;
+  max-width: 900px;
+  margin: auto;
+
+}
+
+#titulo{
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #7f4996;
+  margin:20px;
+  text-align: center;
+}
+
+.descricao{
+  font-size: 25px;
+  color: #333333;
+  margin: 20px;
+  text-align: justify;
+  background: write;
+  border: 3px solid #7f4996;
+  border-radius: 10px;
+ 
+}
+
+.fonte{
+ 
+  font-size: 20px;
+  color: #333333;
+  margin: 20px;
+  text-align: justify;
+}
+
+.saiba{
+  font-size: 20px;
+  color: #333333;
+  margin: 20px;
+  text-align: justify;
+}
+
+.animais {
+list-style-type: none;
+padding-left: 25px;
+font-size: 20px;
+}
+
+.animais li a {
+  color: #7f4996;
+  text-decoration: none;
+}
+
+.imagem{
+ border: 3px dotted #7f4996;
+  border-radius: 15px;
+  
+}
+
